@@ -1,1 +1,1 @@
-# MLIoT-DLCV-HandsOnLab
+# SAIA3353 MLIOT - Lab Exercise
